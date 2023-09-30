@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on **GTA V Interactive Map**
 
-- 🌱 I’m currently learning **C++, Java Script, CSS, HTML, LUA**
+- 🌱 Currently learning **C++, Java Script, CSS, HTML, LUA**
 
-- 👯 I’m looking to collaborate on **Fivem Project**
+- 👯 Looking to collaborate on **Fivem Project**
 
 - 👨‍💻 All of my projects are available at [https://vdstudio.pl/](https://vdstudio.pl/)
 
