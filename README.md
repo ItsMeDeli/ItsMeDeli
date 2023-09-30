@@ -2,13 +2,11 @@
 
 - 🔭 I’m currently working on **GTA V Interactive Map**
 
-- 🌱 I learning **C++, Java Script, CSS, HTML, LUA**
-
 - 👯 Looking to collaborate on **Fivem Project**
 
 - 👨‍💻 All of my projects are available at [https://vdstudio.pl/](https://vdstudio.pl/)
 
-- 📝 I regularly write articles on [https://www.patreon.com/deeli](https://www.patreon.com/deeli)
+- 📝 I Regularly write articles on [https://www.patreon.com/deeli](https://www.patreon.com/deeli)
 
 - ⚡ Fun fact **Sometimes I think I'm funny**
 
