@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deeli</h1>
 
-- 🔭 I’m currently working on **GTA V Interactive Map**
+- 🔭 I’m currently working on **VibeRP**
 
 - 👯 Looking to collaborate on **Fivem Project**
 
