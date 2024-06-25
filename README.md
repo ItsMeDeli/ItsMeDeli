@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **VibeRP**
 
-- 👯 Looking to collaborate on **Fivem Project**
-
 - 👨‍💻 All of my projects are available at [https://vdstudio.pl/](https://vdstudio.pl/)
 
 - 📝 I Regularly write articles on [https://www.patreon.com/deeli](https://www.patreon.com/deeli)
