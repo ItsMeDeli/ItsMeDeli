@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itsmedeli/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/itsmedeli/itsmedeli/output/snake.svg" alt="Snake animation" />
 
 ###
