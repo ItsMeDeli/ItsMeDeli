@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">I'm Deeli, from Poland<br><br>- 🔭 I’m working on Vibe<br>- 📚 I am currently learning to improve my vector skills<br>- ⚡ In my free time I create visualizations</h5>
+<p align="left">I'm Deeli, from Poland<br><br>- 🔭 I’m working on Vibe<br>- 📚 I am currently learning to improve my vector skills<br>- ⚡ In my free time I create visualizations</p>
 
 ###
 
