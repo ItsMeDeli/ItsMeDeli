@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm just Deeli<br><br>- 🔭 I’m working on [Vibe](https://v-rp.pl/)<br>- 📚 I am currently learning to improve my vector skills<br>- ⚡ In my free time I create visualizations</p>
+<p align="left">I'm just Deeli<br><br>- 🔭 I’m working on <a href="https://v-rp.pl/">Vibe</a><br>- 📚 I am currently learning to improve my vector skills<br>- ⚡ In my free time I create visualizations</p>
 
 ###
 
