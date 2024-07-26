@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **VibeRP**
 
-- 👨‍💻 All of my projects are available at [https://vdstudio.pl/](https://vdstudio.pl/)
+- 👨‍💻 All of my projects are available at...
 
 - 📝 I Regularly write articles on [https://www.patreon.com/deeli](https://www.patreon.com/deeli)
 
