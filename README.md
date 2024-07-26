@@ -4,15 +4,15 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<h3 align="center">Hey There 👋</h3>
 
 ###
 
-<p align="left">I'm Deeli, from Poland<br><br>- 🔭 I’m working on Vibe<br>- 📚 I am currently learning to improve my vector skills<br>- ⚡ In my free time I create visualizations</p>
+<h5 align="left">I'm Deeli, from Poland<br><br>- 🔭 I’m working on Vibe<br>- 📚 I am currently learning to improve my vector skills<br>- ⚡ In my free time I create visualizations</h5>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h4 align="left">🛠 Language and tools</h4>
 
 ###
 
