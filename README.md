@@ -1,27 +1,59 @@
 <div align="center">
-  <img height="150" src="https://i.imgur.com/PK84ckm.png"  />
+  <img height="162" src="https://camo.githubusercontent.com/aa7689bbfebd21b430d66d3018fe6bb2f62f96977c8858a36dec75787c17016f/68747470733a2f2f692e696d6775722e636f6d2f504b3834636b6d2e706e67"  />
 </div>
 
 ###
 
-<h3 align="center">Hey There 👋</h3>
-
-###
-
-<p align="left">I'm just Deeli<br><br>- 🔭 I am currently working on rest<br>- 📚 Learning how to rest and do it effectively<br>- ⚡ In my free time I create visualizations</p>
-
-###
-
-<h4 align="left">🛠 Language and tools</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+<div align="center">
+  <img height="30" src="https://i.imgur.com/LYINYDL.png"  />
 </div>
+
+###
+
+<p align="left">I'm just Deeli (or Kamil)<br>- 🔭 I am currently working on rest<br>- 📚 Learning how to rest and do it effectively<br>- ⚡ In my free time I create visualizations</p>
+
+###
+
+<div align="center">
+  <img height="74" src="https://i.imgur.com/b4wKa0y.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="30" src="https://i.imgur.com/x0a775g.png"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/itsmedeli/itsmedeli/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="30" src="https://i.imgur.com/lEWmpOH.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmedeli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmedeli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmedeli&radius=16&area=true&order=5&hide_border=true&bg_color=151515&color=e5e5e5" height="247" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="30" src="https://i.imgur.com/5FxPFrf.png"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/8kxhhehc02zb4wfww5x1eguhf">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8kxhhehc02zb4wfww5x1eguhf&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
