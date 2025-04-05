@@ -34,15 +34,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://i.imgur.com/5FxPFrf.png" style="max-height: 30px; width: auto;" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/8kxhhehc02zb4wfww5x1eguhf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=8kxhhehc02zb4wfww5x1eguhf&count=5" alt="Spotify recently played" />
-  </a>
-</div>
