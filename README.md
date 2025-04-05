@@ -18,15 +18,6 @@
   <img src="https://i.imgur.com/b4wKa0y.png" style="max-height: 73px; width: auto;" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://i.imgur.com/x0a775g.png" style="max-height: 30px; width: auto;" />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/itsmedeli/itsmedeli/output/snake.svg" alt="Snake animation" />
 
 ###
 
