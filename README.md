@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.imgur.com/b4wKa0y.png" style="max-height: 73px; width: auto;" />
+  <img src="https://i.imgur.com/8UJtqBL.png" style="max-height: 73px; width: auto;" />
 </div>
 
 
