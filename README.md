@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">I'm just Deeli (or Kamil)<br>- 🔭 I am currently working on rest<br>- 📚 Learning how to rest and do it effectively<br>- ⚡ In my free time I create visualizations</p>
+<p align="left">
+  I'm just Deeli (or Kamil)<br>
+  ─ 🔭 I’m currently working on <a href="https://talktomev.deeli.me" target="_blank"><strong>TalkToMeV</strong></a><br>
+  ─ 📚 Learning how to rest and do it effectively<br>
+  ─ ⚡ In my free time I create 2D vector art & game visualizations
+</p>
 
 ###
 
