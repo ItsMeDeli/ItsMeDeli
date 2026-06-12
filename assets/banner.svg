@@ -1,0 +1,133 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Deeli — illustrator who codes">
+  <defs>
+    <clipPath id="round"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+
+  <!-- ===== artboard / paper ===== -->
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="#f3eee3"/>
+
+    <!-- faint construction grid -->
+    <g stroke="#1a1612" stroke-width="1" opacity="0.05">
+      <line x1="0" y1="60"  x2="1200" y2="60"/>
+      <line x1="0" y1="180" x2="1200" y2="180"/>
+      <line x1="0" y1="240" x2="1200" y2="240"/>
+      <line x1="430" y1="0" x2="430" y2="300"/>
+      <line x1="820" y1="0" x2="820" y2="300"/>
+    </g>
+
+    <!-- top ruler -->
+    <rect width="1200" height="22" fill="#e7e0d0"/>
+    <line x1="0" y1="22" x2="1200" y2="22" stroke="#1a1612" stroke-width="1" opacity="0.12"/>
+    <g stroke="#1a1612" opacity="0.35">
+      <!-- ticks every 20, tall every 100 -->
+      <g stroke-width="1">
+        <line x1="20"  y1="15" x2="20"  y2="22"/><line x1="40"  y1="15" x2="40"  y2="22"/>
+        <line x1="60"  y1="15" x2="60"  y2="22"/><line x1="80"  y1="15" x2="80"  y2="22"/>
+        <line x1="120" y1="15" x2="120" y2="22"/><line x1="140" y1="15" x2="140" y2="22"/>
+        <line x1="160" y1="15" x2="160" y2="22"/><line x1="180" y1="15" x2="180" y2="22"/>
+        <line x1="220" y1="15" x2="220" y2="22"/><line x1="240" y1="15" x2="240" y2="22"/>
+        <line x1="260" y1="15" x2="260" y2="22"/><line x1="280" y1="15" x2="280" y2="22"/>
+        <line x1="320" y1="15" x2="320" y2="22"/><line x1="340" y1="15" x2="340" y2="22"/>
+        <line x1="360" y1="15" x2="360" y2="22"/><line x1="380" y1="15" x2="380" y2="22"/>
+      </g>
+      <g stroke-width="1.4">
+        <line x1="100" y1="9" x2="100" y2="22"/><line x1="200" y1="9" x2="200" y2="22"/>
+        <line x1="300" y1="9" x2="300" y2="22"/><line x1="400" y1="9" x2="400" y2="22"/>
+      </g>
+    </g>
+
+    <!-- ===== selected object: title + bounding box + handles (breathe together, fixed pivot) ===== -->
+    <g transform="translate(224 122)">
+      <g>
+        <animateTransform attributeName="transform" type="scale"
+          values="1;1.02;1" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite"
+          calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+        <g transform="translate(-224 -122)">
+          <!-- title -->
+          <text x="74" y="152" font-family="'Arial Black','Segoe UI',Arial,sans-serif" font-size="84" font-weight="900" fill="#1a1612" letter-spacing="1">DEELI</text>
+
+          <rect x="58" y="74" width="332" height="96" fill="none" stroke="#ec4d2b" stroke-width="1.4"/>
+          <!-- dimension label -->
+          <text x="356" y="70" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="11" fill="#ec4d2b">332 × 96</text>
+          <!-- 8 selection handles, fixed on the box edges -->
+          <g fill="#f3eee3" stroke="#ec4d2b" stroke-width="1.4">
+            <rect x="53"  y="69"  width="10" height="10"/>
+            <rect x="219" y="69"  width="10" height="10"/>
+            <rect x="385" y="69"  width="10" height="10"/>
+            <rect x="53"  y="117" width="10" height="10"/>
+            <rect x="385" y="117" width="10" height="10"/>
+            <rect x="53"  y="165" width="10" height="10"/>
+            <rect x="219" y="165" width="10" height="10"/>
+            <rect x="385" y="165" width="10" height="10"/>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <!-- subtitle -->
+    <text x="60" y="206" font-family="Consolas,'Courier New',monospace" font-size="19" font-weight="500" fill="#3a342c">
+      illustrator <tspan fill="#ec4d2b" font-weight="700">/</tspan> frontend developer <tspan fill="#0f8a7e" font-weight="700">/</tspan> 2d vector artist
+    </text>
+
+    <!-- chips -->
+    <g font-family="Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#1a1612">
+      <g transform="translate(60,232)">
+        <rect width="86" height="30" rx="6" fill="none" stroke="#1a1612" stroke-width="1.4"/>
+        <circle cx="16" cy="15" r="3.5" fill="#ec4d2b"/>
+        <text x="30" y="20">React</text>
+      </g>
+      <g transform="translate(156,232)">
+        <rect width="70" height="30" rx="6" fill="none" stroke="#1a1612" stroke-width="1.4"/>
+        <circle cx="16" cy="15" r="3.5" fill="#0f8a7e"/>
+        <text x="30" y="20">Vue</text>
+      </g>
+      <g transform="translate(236,232)">
+        <rect width="58" height="30" rx="6" fill="none" stroke="#1a1612" stroke-width="1.4"/>
+        <circle cx="14" cy="15" r="3.5" fill="#1a1612"/>
+        <text x="26" y="20">C#</text>
+      </g>
+      <g transform="translate(304,232)">
+        <rect width="62" height="30" rx="6" fill="none" stroke="#1a1612" stroke-width="1.4"/>
+        <circle cx="14" cy="15" r="3.5" fill="#ec4d2b"/>
+        <text x="26" y="20">Lua</text>
+      </g>
+    </g>
+
+    <!-- ===== right side: a pen-tool object being drawn ===== -->
+    <g transform="translate(0,8)">
+      <!-- the path -->
+      <path d="M 930 80 C 1010 40, 1120 70, 1120 140 C 1120 205, 1010 230, 945 195 C 905 173, 905 118, 930 80 Z"
+            fill="#ec4d2b" fill-opacity="0.10" stroke="#ec4d2b" stroke-width="2"
+            stroke-dasharray="900" stroke-dashoffset="900">
+        <animate attributeName="stroke-dashoffset" values="900;0" dur="2.6s" begin="0.4s" fill="freeze"/>
+      </path>
+      <!-- handle lines -->
+      <g stroke="#1a1612" stroke-width="1" opacity="0.45">
+        <line x1="930" y1="80" x2="978" y2="56"/>
+        <line x1="1120" y1="140" x2="1120" y2="98"/>
+      </g>
+      <!-- anchor points (squares) + control points (circles) -->
+      <g>
+        <rect x="924" y="74"  width="11" height="11" rx="1.5" fill="#f3eee3" stroke="#1a1612" stroke-width="1.6"/>
+        <rect x="1114" y="134" width="11" height="11" rx="1.5" fill="#1a1612"/>
+        <rect x="939" y="189" width="11" height="11" rx="1.5" fill="#f3eee3" stroke="#1a1612" stroke-width="1.6"/>
+        <circle cx="978" cy="56" r="4" fill="#1a1612"/>
+        <circle cx="1120" cy="98" r="4" fill="#1a1612"/>
+      </g>
+    </g>
+
+    <!-- a couple of small flat objects on the canvas -->
+    <circle cx="560" cy="78" r="13" fill="none" stroke="#0f8a7e" stroke-width="2.4"/>
+    <rect x="690" y="60" width="22" height="22" rx="3" fill="none" stroke="#1a1612" stroke-width="2" transform="rotate(12 701 71)"/>
+    <polygon points="640,255 656,228 672,255" fill="#ec4d2b"/>
+
+    <!-- corner registration marks -->
+    <g stroke="#1a1612" stroke-width="1.4" opacity="0.5">
+      <line x1="1176" y1="266" x2="1190" y2="266"/><line x1="1183" y1="259" x2="1183" y2="273"/>
+    </g>
+  </g>
+
+  <!-- artboard outline -->
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#1a1612" stroke-opacity="0.15"/>
+</svg>
