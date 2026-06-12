@@ -12,27 +12,27 @@
 
 ### `/` now drawing…
 
-I'm **Kamil**, known online as **Deeli** — an illustrator who codes. I live where **design meets the DOM**: building snappy interfaces with **React** & **Vue**, drawing **2D / vector** art, and modding **GTA&nbsp;V** with **C#** and **Lua** for fun. If something looks good *and* runs smooth, I probably had a hand in it.
+I'm **Kamil**, or just **Deeli** if you've seen me around. I draw — mostly 2D and vector — and I build the sites those drawings end up living on. Day to day that's **React** and **Vue**; for fun I write **C#** and **Lua**, and it usually ends up inside **GTA&nbsp;V**. I'm picky about how things look. Maybe a little too picky.
 
-> Currently shipping pixels at **[deeli.me](https://deeli.me/)** &nbsp;·&nbsp; sketching out loud on **[YouTube @Deeeli](https://youtube.com/@Deeeli)**
+> My actual work lives at **[deeli.me](https://deeli.me/)**, and I post the occasional video on **[YouTube (@Deeeli)](https://youtube.com/@Deeeli)**.
 
 <br/>
 
-### `/` the palette — my toolbox
+### `/` stuff I work with
 
-**Build the interface** &nbsp;
+**What I build with** &nbsp;
 ![React](https://img.shields.io/badge/React-1a1612?style=flat-square&logo=react&logoColor=f3eee3)
 ![Vue](https://img.shields.io/badge/Vue-1a1612?style=flat-square&logo=vuedotjs&logoColor=f3eee3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1612?style=flat-square&logo=javascript&logoColor=f3eee3)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1612?style=flat-square&logo=html5&logoColor=f3eee3)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1612?style=flat-square&logo=css3&logoColor=f3eee3)
 
-**Speak to the machine** &nbsp;
+**Languages I reach for** &nbsp;
 ![C#](https://img.shields.io/badge/C%23-1a1612?style=flat-square&logo=csharp&logoColor=f3eee3)
 ![.NET](https://img.shields.io/badge/.NET-1a1612?style=flat-square&logo=dotnet&logoColor=f3eee3)
 ![Lua](https://img.shields.io/badge/Lua-1a1612?style=flat-square&logo=lua&logoColor=f3eee3)
 
-**Draw the rest** &nbsp;
+**What I draw in** &nbsp;
 ![Illustrator](https://img.shields.io/badge/Illustrator-1a1612?style=flat-square&logo=adobeillustrator&logoColor=f3eee3)
 ![Photoshop](https://img.shields.io/badge/Photoshop-1a1612?style=flat-square&logo=adobephotoshop&logoColor=f3eee3)
 ![Figma](https://img.shields.io/badge/Figma-1a1612?style=flat-square&logo=figma&logoColor=f3eee3)
@@ -49,7 +49,7 @@ I'm **Kamil**, known online as **Deeli** — an illustrator who codes. I live wh
 
 <br/>
 
-### `/` a snake ate my contributions
+### `/` a snake eating my contributions
 
 <div align="center">
 
@@ -59,7 +59,7 @@ I'm **Kamil**, known online as **Deeli** — an illustrator who codes. I live wh
 
 <br/>
 
-### `/` find me in the wild
+### `/` where to find me
 
 <div align="center">
 
@@ -74,5 +74,5 @@ I'm **Kamil**, known online as **Deeli** — an illustrator who codes. I live wh
 <br/>
 
 <div align="center">
-  <sub><code>/</code> made with vectors, caffeine, and a stubborn eye for detail <code>/</code></sub>
+  <sub><code>/</code> scrolled this far? thanks. now go make something. <code>/</code></sub>
 </div>
