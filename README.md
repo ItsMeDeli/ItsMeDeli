@@ -53,7 +53,7 @@ I'm **Kamil**, known online as **Deeli** — an illustrator who codes. I live wh
 
 <div align="center">
 
-<img alt="contribution snake" src="https://raw.githubusercontent.com/ItsMeDeli/ItsMeDeli/output/dist/snake.svg"/>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/ItsMeDeli/ItsMeDeli/output/snake.svg"/>
 
 </div>
 
