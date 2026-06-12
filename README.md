@@ -1,7 +1,7 @@
 <!--
   ████  DEELI · github profile readme  ████
   Hand-coded "open artboard" banner + a small studio of widgets.
-  Palette →  paper #f3eee3 · ink #1a1612 · vermilion #ec4d2b · petrol #0f8a7e
+  Palette →  canvas #0d1117 · cream #e8e0d0 · vermilion #ec4d2b · petrol #0f8a7e
 -->
 
 <a href="https://deeli.me/">
