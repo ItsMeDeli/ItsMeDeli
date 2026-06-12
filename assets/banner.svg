@@ -37,31 +37,24 @@
       </g>
     </g>
 
-    <!-- ===== selected object: title + bounding box + handles (breathe together, fixed pivot) ===== -->
-    <g transform="translate(224 122)">
-      <g>
-        <animateTransform attributeName="transform" type="scale"
-          values="1;1.02;1" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite"
-          calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
-        <g transform="translate(-224 -122)">
-          <!-- title -->
-          <text x="74" y="152" font-family="'Arial Black','Segoe UI',Arial,sans-serif" font-size="84" font-weight="900" fill="#1a1612" letter-spacing="1">DEELI</text>
+    <!-- ===== selected object: title + bounding box + handles ===== -->
+    <g>
+      <!-- title -->
+      <text x="74" y="152" font-family="'Arial Black','Segoe UI',Arial,sans-serif" font-size="84" font-weight="900" fill="#1a1612" letter-spacing="1">DEELI</text>
 
-          <rect x="58" y="74" width="332" height="96" fill="none" stroke="#ec4d2b" stroke-width="1.4"/>
-          <!-- dimension label -->
-          <text x="356" y="70" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="11" fill="#ec4d2b">332 × 96</text>
-          <!-- 8 selection handles, fixed on the box edges -->
-          <g fill="#f3eee3" stroke="#ec4d2b" stroke-width="1.4">
-            <rect x="53"  y="69"  width="10" height="10"/>
-            <rect x="219" y="69"  width="10" height="10"/>
-            <rect x="385" y="69"  width="10" height="10"/>
-            <rect x="53"  y="117" width="10" height="10"/>
-            <rect x="385" y="117" width="10" height="10"/>
-            <rect x="53"  y="165" width="10" height="10"/>
-            <rect x="219" y="165" width="10" height="10"/>
-            <rect x="385" y="165" width="10" height="10"/>
-          </g>
-        </g>
+      <rect x="58" y="74" width="332" height="96" fill="none" stroke="#ec4d2b" stroke-width="1.4"/>
+      <!-- dimension label -->
+      <text x="356" y="70" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="11" fill="#ec4d2b">332 × 96</text>
+      <!-- 8 selection handles, fixed on the box edges -->
+      <g fill="#f3eee3" stroke="#ec4d2b" stroke-width="1.4">
+        <rect x="53"  y="69"  width="10" height="10"/>
+        <rect x="219" y="69"  width="10" height="10"/>
+        <rect x="385" y="69"  width="10" height="10"/>
+        <rect x="53"  y="117" width="10" height="10"/>
+        <rect x="385" y="117" width="10" height="10"/>
+        <rect x="53"  y="165" width="10" height="10"/>
+        <rect x="219" y="165" width="10" height="10"/>
+        <rect x="385" y="165" width="10" height="10"/>
       </g>
     </g>
 

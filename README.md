@@ -39,28 +39,11 @@ I'm **Kamil**, known online as **Deeli** — an illustrator who codes. I live wh
 
 <br/>
 
-### `/` featured build
+### `/` contribution rhythm
 
 <div align="center">
 
-<a href="https://github.com/ItsMeDeli/TalkToMeV">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsMeDeli&repo=TalkToMeV&show_owner=true&title_color=ec4d2b&icon_color=0f8a7e&text_color=3a342c&bg_color=f3eee3&border_color=1a1612&border_radius=12" alt="TalkToMeV"/>
-</a>
-
-</div>
-
-> 🤖 &nbsp;**TalkToMeV** — AI-powered NPCs for GTA&nbsp;V. Walk up to any pedestrian and *actually talk to them*: powered by the **Google Gemini** API, written in **C#**, with multi-language support.
-
-<br/>
-
-### `/` by the numbers
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ItsMeDeli&show_icons=true&include_all_commits=true&count_private=true&title_color=ec4d2b&icon_color=0f8a7e&text_color=3a342c&bg_color=f3eee3&border_color=1a1612&border_radius=12&rank_icon=percentile" alt="stats"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMeDeli&background=f3eee3&border=1a1612&stroke=1a1612&ring=ec4d2b&fire=ec4d2b&currStreakLabel=0f8a7e&sideLabels=3a342c&dates=8a8478&currStreakNum=1a1612&sideNums=1a1612&border_radius=12" alt="streak"/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMeDeli&custom_title=contribution%20rhythm&bg_color=f3eee3&color=1a1612&title_color=ec4d2b&line=ec4d2b&point=0f8a7e&area=true&area_color=ec4d2b&hide_border=true&radius=12" alt="contribution activity graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMeDeli&custom_title=contribution%20rhythm&bg_color=0d1117&color=e8e0d0&title_color=ec4d2b&line=ec4d2b&point=0f8a7e&area=true&area_color=ec4d2b&hide_border=true&radius=12" alt="contribution activity graph"/>
 
 </div>
 
