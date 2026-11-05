@@ -1,78 +1,56 @@
-<!--
-  ████  DEELI · github profile readme  ████
-  Hand-coded "open artboard" banner + a small studio of widgets.
-  Palette →  canvas #0d1117 · cream #e8e0d0 · vermilion #ec4d2b · petrol #0f8a7e
--->
 
-<a href="https://deeli.me/">
-  <img src="assets/banner.svg" alt="Deeli — illustrator / frontend developer / 2d vector artist" width="100%"/>
+<a href="https://deeli.me">
+  <img src="assets/banner.svg" alt="Deeli — Illustration & Frontend" width="100%">
 </a>
+
+<br>
+
+<p align="center">
+  <b>Illustration, design & frontend development.</b><br>
+  I make things look good. Then I make them work.
+</p>
+
+<p align="center">
+  <a href="https://deeli.me">Portfolio</a>
+  &nbsp; / &nbsp;
+  <a href="https://youtube.com/@Deeeli">YouTube</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/ItsMeDeli">GitHub</a>
+</p>
+
+<br>
+
+## Hey, I'm Kamil <sub>aka Deeli</sub>
+
+I'm a digital artist and frontend developer with a soft spot for clean interfaces, bold visuals and the little details most people won't notice.
+
+I spend most of my time creating **2D & vector illustrations** and turning designs into websites with **React** and **Vue**.
+
+When I'm not doing either, I'm probably messing around with **C#**, **Lua**, or something related to **GTA V**.
+
+<br>
+
+## What I work with
+
+**01 / Visual & design**
+
+Illustrator · Photoshop · Figma
+
+**02 / Frontend**
+
+React · Vue · JavaScript · HTML · CSS
+
+**03 / Other experiments**
+
+C# · .NET · Lua
+
+<br>
 
 ---
 
-### `/` now drawing…
-
-I'm **Kamil**, or just **Deeli** if you've seen me around. I draw — mostly 2D and vector — and I build the sites those drawings end up living on. Day to day that's **React** and **Vue**; for fun I write **C#** and **Lua**, and it usually ends up inside **GTA&nbsp;V**. I'm picky about how things look. Maybe a little too picky.
-
-> My actual work lives at **[deeli.me](https://deeli.me/)**, and I post the occasional video on **[YouTube (@Deeeli)](https://youtube.com/@Deeeli)**.
-
-<br/>
-
-### `/` stuff I work with
-
-**What I build with** &nbsp;
-![React](https://img.shields.io/badge/React-1a1612?style=flat-square&logo=react&logoColor=f3eee3)
-![Vue](https://img.shields.io/badge/Vue-1a1612?style=flat-square&logo=vuedotjs&logoColor=f3eee3)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1612?style=flat-square&logo=javascript&logoColor=f3eee3)
-![HTML5](https://img.shields.io/badge/HTML5-1a1612?style=flat-square&logo=html5&logoColor=f3eee3)
-![CSS3](https://img.shields.io/badge/CSS3-1a1612?style=flat-square&logo=css3&logoColor=f3eee3)
-
-**Languages I reach for** &nbsp;
-![C#](https://img.shields.io/badge/C%23-1a1612?style=flat-square&logo=csharp&logoColor=f3eee3)
-![.NET](https://img.shields.io/badge/.NET-1a1612?style=flat-square&logo=dotnet&logoColor=f3eee3)
-![Lua](https://img.shields.io/badge/Lua-1a1612?style=flat-square&logo=lua&logoColor=f3eee3)
-
-**What I draw in** &nbsp;
-![Illustrator](https://img.shields.io/badge/Illustrator-1a1612?style=flat-square&logo=adobeillustrator&logoColor=f3eee3)
-![Photoshop](https://img.shields.io/badge/Photoshop-1a1612?style=flat-square&logo=adobephotoshop&logoColor=f3eee3)
-![Figma](https://img.shields.io/badge/Figma-1a1612?style=flat-square&logo=figma&logoColor=f3eee3)
-
-<br/>
-
-### `/` contribution rhythm
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMeDeli&custom_title=contribution%20rhythm&bg_color=0d1117&color=e8e0d0&title_color=ec4d2b&line=ec4d2b&point=0f8a7e&area=true&area_color=ec4d2b&hide_border=true&radius=12" alt="contribution activity graph"/>
-
-</div>
-
-<br/>
-
-### `/` a snake eating my contributions
-
-<div align="center">
-
-<img alt="contribution snake" src="https://raw.githubusercontent.com/ItsMeDeli/ItsMeDeli/output/snake.svg"/>
-
-</div>
-
-<br/>
-
-### `/` where to find me
-
-<div align="center">
-
-<a href="https://deeli.me/"><img src="https://img.shields.io/badge/Portfolio-deeli.me-f3eee3?style=flat-square&logo=safari&logoColor=f3eee3&labelColor=1a1612&color=EC4D2B"/></a>
-<a href="https://youtube.com/@Deeeli"><img src="https://img.shields.io/badge/YouTube-@Deeeli-f3eee3?style=flat-square&logo=youtube&logoColor=f3eee3&labelColor=1a1612&color=EC4D2B"/></a>
-<a href="https://github.com/ItsMeDeli"><img src="https://img.shields.io/badge/GitHub-ItsMeDeli-f3eee3?style=flat-square&logo=github&logoColor=f3eee3&labelColor=1a1612&color=0F8A7E"/></a>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=ItsMeDeli&style=flat-square&color=EC4D2B&label=CANVAS+VIEWS&labelColor=1a1612" alt="profile views"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub><code>/</code> scrolled this far? thanks. now go make something. <code>/</code></sub>
-</div>
+<p align="center">
+  <sub>
+    Less noise, more good work.<br>
+    <a href="https://deeli.me"><b>See what I'm making →</b></a>
+  </sub>
+</p>
