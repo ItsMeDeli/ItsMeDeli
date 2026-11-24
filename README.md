@@ -1,56 +1,41 @@
-
 <a href="https://deeli.me">
-  <img src="assets/banner.svg" alt="Deeli — Illustration & Frontend" width="100%">
+  <img src="assets/banner.svg" alt="Deeli — Illustration &amp; Fullstack" width="100%">
 </a>
 
-<br>
-
 <p align="center">
-  <b>Illustration, design & frontend development.</b><br>
-  I make things look good. Then I make them work.
+  <a href="https://deeli.me"><b>portfolio</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://youtube.com/@Deeeli"><b>youtube</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/ItsMeDeli"><b>github</b></a>
 </p>
 
-<p align="center">
-  <a href="https://deeli.me">Portfolio</a>
-  &nbsp; / &nbsp;
-  <a href="https://youtube.com/@Deeeli">YouTube</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/ItsMeDeli">GitHub</a>
-</p>
+---
 
-<br>
+### Hey, I'm Kamil (Deeli)
 
-## Hey, I'm Kamil <sub>aka Deeli</sub>
+I'm a digital artist and fullstack developer. I like building things where design and code actually meet — clean interfaces, solid visuals, and software that feels good to use.
 
-I'm a digital artist and frontend developer with a soft spot for clean interfaces, bold visuals and the little details most people won't notice.
+Most of my time goes into **2D vector illustrations** and building web applications with **TypeScript**, **React**, and **Vue**. When I'm away from the browser, I usually tinker with **C#**, **Lua**, and custom scripts or tools for **GTA V**.
 
-I spend most of my time creating **2D & vector illustrations** and turning designs into websites with **React** and **Vue**.
+---
 
-When I'm not doing either, I'm probably messing around with **C#**, **Lua**, or something related to **GTA V**.
+### What I build with
 
-<br>
+**01 / Design & Vector**  
+Illustrator · Figma · Photoshop
 
-## What I work with
+**02 / Fullstack Development**  
+TypeScript · JavaScript · React · Vue · HTML & CSS
 
-**01 / Visual & design**
-
-Illustrator · Photoshop · Figma
-
-**02 / Frontend**
-
-React · Vue · JavaScript · HTML · CSS
-
-**03 / Other experiments**
-
-C# · .NET · Lua
-
-<br>
+**03 / Scripting & Modding**  
+TypeScript · C# · .NET · Lua · Game modding
 
 ---
 
 <p align="center">
   <sub>
-    Less noise, more good work.<br>
-    <a href="https://deeli.me"><b>See what I'm making →</b></a>
+    Less noise, more craft.<br>
+    <a href="https://deeli.me"><b>deeli.me →</b></a>
   </sub>
 </p>
